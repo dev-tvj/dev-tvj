@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dev-tvj)](https://github.com/dev-tvj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tales-de-jesus-654030215/)](https://www.linkedin.com/in/tales-de-jesus-654030215/)
-[![Email Badge](https://img.shields.io/badge/E--mail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=)](mailto:dev.tvj@protonmail.com)
+[![Email Badge](https://img.shields.io/badge/E--mail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=)](mailto:dev.tj@protonmail.com)
 
 ## About me:
 
