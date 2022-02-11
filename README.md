@@ -8,7 +8,7 @@
 
 I am a backend developer Junior, attending the superior course of analysis and development of systems by University UNIRFAN-SP. 
 
-In love with technologies and evolving each day more as a programmer. 
+In love with technologies and evolving each day more as a programmer. ❤️ 💻 
 
 ## My specialties: 
 
