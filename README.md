@@ -6,7 +6,9 @@
 
 ## About me:
 
-I am a backend developer Junior, attending the superior course of analysis and development of systems by University UNIRFAN-SP. 
+I am a backend developer Junior, **looking for new remote job opportunities!** 🇧🇷 ~ Brazil and World ~ 🌎
+
+I am studying in the higher course of systems analysis and development at the university UNIRFAN-SP (BRAZIL).  
 
 In love with technologies and evolving each day more as a programmer. ❤️ 💻 
 
