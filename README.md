@@ -6,7 +6,7 @@
 
 ## About me:
 
-I am a backend developer Junior, **looking for new remote job opportunities!** 🇧🇷 ~ Brazil and World ~ 🌎
+I am a backend developer Junior 🇧🇷 ~ Brazil and World ~ 🌎
 
 I am studying in the superior course of systems analysis and development at the university UNIRFAN-SP (BRAZIL).  
 
