@@ -6,25 +6,17 @@
 
 ## About me:
 
-I am a backend developer Junior 🇧🇷 ~ Brazil and World ~ 🌎
+I am a pleno fullstack developer 🇧🇷 ~ Brazil and World ~ 🌎
 
-I am studying in the superior course of systems analysis and development at the university UNIRFAN-SP (BRAZIL).  
+Fullstack Web Developer (backend and frontend) working with international team at DELL Technologies & EMC. With over 13+ years of experience in various areas, I have provided services and support to more than 40 companies. 
 
-In love with technologies and evolving each day more as a programmer. ❤️ 💻 
+Throughout my career, I have worked in IT, fixing computers, website development, advertising agencies, digital marketing, digital ad management, sales, physical stores and online stores.
 
-## My specialties: 
+I have developing focus with C#, Dotnet Core, Typscript / JavaScript / Angular, among other technologies required to create high-level web and mobile applications. 
 
-### Languages: <img src="https://img.shields.io/badge/C%23%20(C%20%20SHARP)-0071C5.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+I have several licenses and certificates in the area of technology and I consider myself a passionate about studying! Enthusiast with new market technkels, I am agile and able to learn new languages and frameworks.
 
-### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/angular%20-%23323330.svg?&style=for-the-badge&logo=angular&logoColor=white"/> 
-
-### Backend: <img src="https://img.shields.io/badge/.NETcore%20-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel%20-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
-### Database: <img src ="https://img.shields.io/badge/MySQL%20-005C84.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/APACHE-D22128.svg?&style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/LINUX%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> <img src="https://img.shields.io/badge/Debian%20-A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white"/> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?&style=for-the-badge&logo=archlinux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu%20-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino%20-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/trello-0052CC.svg?&style=for-the-badge&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> <img src="https://img.shields.io/badge/Blender%203d-23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
+I am very easily in communication, adaptations and I am willing to overcome any challenge! In love with technologies and evolving each day more as a programmer.
 
 
 ## ... and for what i don't know, just give me a few days 😁
