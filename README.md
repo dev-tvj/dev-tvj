@@ -6,7 +6,7 @@
 
 ## About me:
 
-I am a pleno fullstack developer 🇧🇷 ~ Brazil and World ~ 🌎
+I am a fullstack developer 🇧🇷 ~ Brazil and World ~ 🌎
 
 Fullstack Web Developer (backend and frontend) working with international team at DELL Technologies & EMC. With over 13+ years of experience in various areas, I have provided services and support to more than 40 companies. 
 
